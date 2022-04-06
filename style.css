@@ -1,0 +1,12 @@
+body {
+    background: url("images/books.jpeg");
+    background-repeat: no repeat;
+    background-size: cover;
+    color: white;
+    text-align: center;
+}
+
+#result {
+    height: 700px;
+    width: 600px;
+}
