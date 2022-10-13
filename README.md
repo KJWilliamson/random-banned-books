@@ -1,4 +1,5 @@
-# random-banned-books
+## Random banned books built with HTML, CSS, and Javascript.
+* User gets a banned book image every time they click the button.
 
 https://random-banned-books.netlify.app/
 
